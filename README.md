@@ -36,7 +36,7 @@ Part 2 of the project involves the use of Dataloop's Python SDK to automate vari
 
 ## Documentation 📖
 
-For detailed documentation on how to use the Dataloop SDK, please refer to the [official Dataloop documentation](https://sdk-docs.dataloop.ai/en/latest/index.html).
+For detailed documentation on how to use the Dataloop SDK, please refer to the [official Dataloop documentation](https://sdk-docs.dataloop.ai/en/latest/index.html) and the amazing [tutorial](https://sdk-docs.dataloop.ai/en/latest/tutorials.html) to get started.
 
 ## Contributing 🤝
 
