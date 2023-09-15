@@ -13,7 +13,7 @@ In Part 1, I utilized the Dataloop AI platform to perform various tasks related 
 
 - **Creating Annotation Categories** 🏷️: I defined and created the annotation categories [cat,dog & bird] required for the project. These categories helped in labeling and annotating the data effectively.
 
-- **Annotation** 🖋️: We used the platform's user-friendly UI to annotate the data, applying labels and bounding boxes to specific objects nd regions of interest within the images. So, I applied three annotation techniques namely **Classification, Semantic Segmentation and Box Annotation** from the Recipe.
+- **Annotation** 🖋️: I used the platform's user-friendly UI to annotate the data, applying labels and bounding boxes to specific objects nd regions of interest within the images. So, I applied three annotation techniques namely **Classification, Semantic Segmentation and Box Annotation** from the Recipe.
 
 - **Quality Control** 🧐: To ensure the quality and accuracy of annotations, I performed quality control checks, reviewing and validating the annotations made by annotators.
 
